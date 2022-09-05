@@ -5,3 +5,5 @@ Trabalhos práticos realizados no âmbito da unidade curricular de Redes e Compu
 - Guilherme Varela [@GVarelaa](https://github.com/GVarelaa)
 - Gabriela Cunha [@gabrielasfc](https://github.com/gabrielasfc)
 - Simão Costa [@sica2602](https://github.com/sica2602)
+
+### Grade : 17/20
